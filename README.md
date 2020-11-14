@@ -1,12 +1,12 @@
 ## cora-petalinux
 
-# board reference manual:
+### board reference manual:
 https://reference.digilentinc.com/reference/programmable-logic/cora-z7/reference-manual
 
-# following tutorial:
+### following tutorial:
 https://github.com/Digilent/Petalinux-Cora-Z7-10
 
-# locale.py issue:
+### locale.py issue:
 
 find /opt/pkg/petalinux/ -name locale.py
 
